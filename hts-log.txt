@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 06 Feb 2025 18:24:44 at https://www.haplink.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.haplink.net/ -O1 "C:\FTC26532\website\FTC26532.github.io\Haplink_Backup_20250206\hapnet" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:24:45	Warning: 	Note: due to https://www.haplink.net remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+18:25:12	Warning: 	Moved Permanently for https://www.haplink.net/?p=71
+18:25:12	Warning: 	File has moved from https://www.haplink.net/?p=71 to https://www.haplink.net/our-team/
+18:25:12	Warning: 	Moved Permanently for https://www.haplink.net/?p=65
+18:25:12	Warning: 	File has moved from https://www.haplink.net/?p=65 to https://www.haplink.net/happy-haptic-doctors-robot-design/
+18:25:12	Warning: 	Moved Permanently for https://www.haplink.net/?p=56
+18:25:12	Warning: 	File has moved from https://www.haplink.net/?p=56 to https://www.haplink.net/2024-worlds/
+18:25:12	Warning: 	Moved Permanently for https://www.haplink.net/?p=108
+18:25:12	Warning: 	File has moved from https://www.haplink.net/?p=108 to https://www.haplink.net/donate/
+18:25:12	Warning: 	Moved Permanently for https://www.haplink.net/?p=380
+18:25:12	Warning: 	File has moved from https://www.haplink.net/?p=380 to https://www.haplink.net/2024/04/26/innovation-presentation/
+18:25:26	Warning: 	Moved Permanently for https://www.haplink.net/?p=359
+18:25:26	Warning: 	File has moved from https://www.haplink.net/?p=359 to https://www.haplink.net/2024/04/24/first-match/
+18:25:26	Warning: 	Moved Permanently for https://www.haplink.net/?p=366
+18:25:26	Warning: 	File has moved from https://www.haplink.net/?p=366 to https://www.haplink.net/2024/04/20/long-day/
+18:25:29	Warning: 	Moved Permanently for https://www.haplink.net/?p=346
+18:25:29	Warning: 	File has moved from https://www.haplink.net/?p=346 to https://www.haplink.net/2024/04/19/practice-practice-practice/
+18:25:29	Warning: 	Moved Permanently for https://www.haplink.net/?p=335
+18:25:29	Warning: 	File has moved from https://www.haplink.net/?p=335 to https://www.haplink.net/2024/04/18/setting-up-our-pit/
+18:25:29	Warning: 	Moved Permanently for https://www.haplink.net/?p=325
+18:25:29	Warning: 	File has moved from https://www.haplink.net/?p=325 to https://www.haplink.net/2024/04/17/practice-table-construction/
+18:25:29	Warning: 	Moved Permanently for https://www.haplink.net/?p=318
+18:25:29	Warning: 	File has moved from https://www.haplink.net/?p=318 to https://www.haplink.net/2024/04/14/packing-up/
+18:25:30	Warning: 	Moved Permanently for https://www.haplink.net/?p=207
+18:25:30	Warning: 	File has moved from https://www.haplink.net/?p=207 to https://www.haplink.net/2023/12/03/nh-champions-on-to-worlds/
+
+HTTrack Website Copier/3.49-2 mirror complete in 48 seconds : 199 links scanned, 186 files written (261782390 bytes overall) [260775718 bytes received at 5432827 bytes/sec], 1357527 bytes transferred using HTTP compression in 17 files, ratio 18%, 28.4 requests per connection
+(No errors, 25 warnings, 0 messages)
