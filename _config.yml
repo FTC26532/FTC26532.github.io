@@ -1,0 +1,37 @@
+# Site settings
+title: HapLink
+description: Home of the Happy Haptic Doctors, an FLL team
+baseurl: "/mdsite" # Repository name as the base URL
+url: "https://FTC26532.github.io" # Your GitHub Pages URL
+
+# Author settings
+author:
+  name: Happy Haptic Doctors
+  email: contact@haplink.net
+
+# Build settings
+markdown: kramdown
+theme: minima # You can replace this with a custom theme if needed
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation
+collections:
+  posts:
+    output: true
+  pages:
+    output: true
+
+# Exclude files and directories from the build
+exclude:
+  - .github/
+  - node_modules/
+  - README.md
+
+# Defaults for front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
