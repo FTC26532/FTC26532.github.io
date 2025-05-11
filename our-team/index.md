@@ -10,59 +10,91 @@
 
 Our team, **The Happy Haptic Doctors**, is made up of seven middle schoolers assisted by two coaches. All of us live along the borders of New Hampshire and Vermont, yet go to the same school. Most of our members did FLL in 2022, so we decided to do it again. As we started to talk about our Innovation Project, we focused on our shared interests of Music and Sports.
 
+
 ---
 
-## Team Members
+## Team Members 
+
 
 ### Kastner Anderson
+#### (FLL + FTC Season 2023-25)
 ![Kastner Anderson](../wp-content/uploads/2024/01/IMG_9524-edited-scaled.jpg)
 
-Kastner
+Kastner likes...
 
 ---
 
-### Charlie Devlin
-![Charlie Devlin](../wp-content/uploads/2024/01/Screenshot-2023-11-16-at-9.31.24-AM-edited-1.png)
-
-Charlie enjoys a wide range of sports including wakeboarding, tae kwon do, mountain biking, lacrosse, soccer, and skiing. He also loves logic puzzles and solving the Rubik's cube.
-
----
-
-### Grayson Lyall
-![Grayson Lyall](../wp-content/uploads/2024/01/IMG_7469-768x1024.jpg)
+### Grayson Lyall 
+#### (FLL + FTC Season 2023-25)
+![Grayson Lyall](./grayson.png)
 
 Grayson enjoys watching and playing soccer, skiing, and playing piano and trumpet.
 
 ---
 
-### Owen Osterberg
+### Owen Osterberg 
+#### (FLL + FTC Season 2023-25)
 ![Owen Osterberg](../wp-content/uploads/2024/01/Owen-edited.jpg)
 
 Owen ski races, likes to mountain bike, plays tennis, and surfs occasionally. He also plays the violin.
 
 ---
 
-### B Swenson
-![B Swenson](../wp-content/uploads/2024/01/Screenshot-2024-01-15-at-10.03.54 PM-edited.png)
-
-B likes drawing digitally and traditionally, and many different sports. He's planning on learning how to animate over the summer.
-
----
-
-### Andy Zhang
+### Andy Zhang (2023-25)
+#### (FLL + FTC Season 2023-25)
 ![Andy Zhang](../wp-content/uploads/2024/01/IMG_5896-edited.jpg)
 
-Andy enjoys many activities, such as hockey, soccer, and playing the saxophone. He also enjoys Math competitions and chess.
+Andy enjoys playing hockey, soccer, and playing the saxophone. He also enjoys math competitions and chess.
 
 ---
 
 ### Ella Zhang
+#### (FLL + FTC Season 2023-25)
 ![Ella Zhang](../wp-content/uploads/2024/01/IMG_5890-edited.jpg)
 
-Ella enjoys playing several different sports such as hockey, soccer, basketball, and tennis. She also plays the flute. In her spare time, she likes to create art, bike, and play chess.
+Ella enjoys playing several different sports such as hockey, soccer, basketball. She also plays the flute, creates art and likes to bike.
 
 ---
 
+### Jacob Hannan
+#### (FTC Season 2024-25)
+![Jacob Hannan](./jacob.png)
+
+Jacob likes...
+
+---
+
+### Alan Zhang
+#### (FTC Season 2024-25)
+![Alan Zhang](./alan.png)
+
+Alan likes...
+
+---
+
+### Elizabeth Anderson
+#### (FTC Season 2024-25)
+![Elizabeth Anderson](./elizabethfh.png)
+
+Elizabeth likes...
+
+---
+
+### B Swenson 
+#### (FLL Season 2023-24)
+![B Swenson](../wp-content/uploads/2024/01/Screenshot-2024-01-15-at-10.03.54 PM-edited.png)
+
+B likes drawing digitally and traditionally, and many different sports like running. He's also learning how to animate drawings.
+
+---
+
+### Charlie Devlin
+#### (FLL Season 2023-24)
+![Charlie Devlin](../wp-content/uploads/2024/01/Screenshot-2023-11-16-at-9.31.24-AM-edited-1.png)
+
+Charlie enjoys wakeboarding, tae kwon do, mountain biking, lacrosse, soccer, and skiing. He also loves logic puzzles.
+
+---
 ## Coaches
 
 ### Erich Osterberg
