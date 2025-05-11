@@ -1,23 +1,26 @@
 # Homepage - HapLink
 
-We are the Happy Haptic Doctors - a robotics team competing in the First Lego League.
+We are team 26532, Happy Haptic Doctors - a robotics team competing in the First Tech Challenge 2024-2025.
+
+Last year, we competed in the First Lego League, and attended 
+the 2023-2024 Worlds Competetion.
 
 ---
 
 ## Navigation
 
-- [Home](index.md) - [Our Team](our-team/index.md) - [Robot Design](happy-haptic-doctors-robot-design/index.md) - [2024 Worlds](2024-worlds/index.md) - [2024 Highlights](2024/index.md) - [Donate](donate/index.html)
+- [Home](index.md) - [Our Team](our-team/index.md) - [Robot Design](happy-haptic-doctors-robot-design/index.md) - [2023 FLL](2023/2023/FLL2023.md) - [2024 Worlds](2024-worlds/index.md) - [2024 Highlights](2024/index.md) - [Donate](donate/index.html)
 
 ---
 
 
 ## Hero Section
 
-![Hero Image](wp-content/uploads/2024/01/IMG_7438.jpg)
+![Hero Image](./2025/team2025nh.jpg)
 
 **HapLink**
 
-The Happy Haptic Doctors are a small robotics team in the Upper Valley competing in a First Lego League Robotics competition. HapLink is the name for our Innovation Project.
+We are a small robotics team in the Upper Valley competing in a First Tech Challenge Robotics competition. HapLink is the name for our Innovation Project.
 
 [Learn More](2024-worlds/index.md)
 
@@ -27,12 +30,22 @@ The Happy Haptic Doctors are a small robotics team in the Upper Valley competing
 
 ![Team Photo](wp-content/uploads/2024/01/StatesPicture-edited.jpg)
 
-### Members:
+### 2023-24 Members:
 - Kastner Anderson
 - Charlie Devlin
 - Grayson Lyall
 - Owen Osterberg
 - B Swenson
+- Andy Zhang
+- Ella Zhang
+
+### 2024/25 Members:
+- Kastner Anderson
+- Elizabeth Anderson
+- Jacob Hannan
+- Grayson Lyall
+- Owen Osterberg
+- Alan Zhang
 - Andy Zhang
 - Ella Zhang
 
@@ -43,14 +56,7 @@ The Happy Haptic Doctors are a small robotics team in the Upper Valley competing
 [More About Us](our-team/index.html)
 
 ---
-
-## Help Us Go to Worlds
-
-![Houston Image](wp-content/uploads/2024/01/texas-1584104_1920.jpg)
-
-### Help us go to Worlds
-
-We will be competing in Houston, Texas, in April. We need your help to raise money for plane tickets and hotels for the competition.
+### Please consider helping us with a donation.
 
 [Donate Here](donate/index.html)
 
