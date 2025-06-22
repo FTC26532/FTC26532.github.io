@@ -6,7 +6,7 @@
 
 ![Attachment Video](../wp-content/uploads/2024/01/IMG_7461.qt)
 
-There are two main parts that you need to focus on for FLL. The first part is the **Innovation Project**, which is a solution to address a real world issue. For example, our innovation project is a n immersive haptic suit that allows people to experience concerts and live sporting events from the comfort of their home, at a fraction of the price.
+There are two things that you need to focus on when doing FLL. The first part is **innovation**, which is a solution to address a problem in the world. For example, our innovation project is making a haptic suit that allows people to experience concerts and live sporting events from the comfort of their home.
 
 The second part is **Robot Design**, which describes the parts of our robot.
 
@@ -14,7 +14,7 @@ The second part is **Robot Design**, which describes the parts of our robot.
 
 ### The Arm Attachment
 
-The arm is an attachment that attaches to the front motor and can press things down or lift levers up. We use it for:
+The arm is an attachment that attaches to the front motor and can press things down or lift things up. We use it for:
 - Immersive experience
 - The lever on the rolling camera mission
 - To push the rolling camera
@@ -24,7 +24,7 @@ The arm is an attachment that attaches to the front motor and can press things d
 
 ### Sound Mixer Attachment
 
-Another attachment we have is for the sound mixer. It has three extending mechanisms to push the sound mixer levers up. We also have a hooking piece on the side which picks up one of the experts.
+Another attachment we have is for the sound mixer. It has three pieces to push the sound mixer levers up. We also have a part on the side of it which picks up one of the experts.
 
 ---
 
@@ -38,7 +38,7 @@ Another attachment we have is for the sound mixer. It has three extending mechan
 
 ---
 
-
+## Footer
 
 **HapLink**
 

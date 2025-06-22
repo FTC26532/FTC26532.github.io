@@ -1,4 +1,8 @@
-# 2023-24 NH FLL Champions, on to Worlds!
+# NH Champions, on to Worlds!
+
+Coach Yu and I can't stop thinking about that moment on Saturday when they announced that the kids had earned a spot at World Championships! What an incredible experience, with much more to come!
+
+---
 
 ## Metadata
 
@@ -12,17 +16,17 @@
 
 ---
 
-## LINKS
+## Breadcrumbs
 
 1. [Home](https://www.haplink.net/)
 2. [2023](https://www.haplink.net/2023/)
 3. [December](https://www.haplink.net/2023/12/)
-
+4. [3](https://www.haplink.net/2023/12/03/)
 5. NH Champions, on to Worlds!
 
 ---
 
-#### The Moment
+## Images
 
 ![Main Image](https://www.haplink.net/wp-content/uploads/2023/12/Frame-15-01-2024-09-58-35.jpg)
 
@@ -30,9 +34,8 @@
 
 ## Additional Information
 
-#### **Organization**: Happy Haptic Doctors
-
-  **Logo**: ![Logo](https://www.haplink.net/wp-content/uploads/2024/01/Screenshot-2024-01-15-at-7.23.35 PM.png)
+- **Organization**: Happy Haptic Doctors
+  - **Logo**: ![Logo](https://www.haplink.net/wp-content/uploads/2024/01/Screenshot-2024-01-15-at-7.23.35 PM.png)
 - **Twitter Card**: Summary Large Image
 - **RSS Feeds**:
   - [Feed](../../../../feed/index.html)
