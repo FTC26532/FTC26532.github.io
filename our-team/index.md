@@ -8,7 +8,7 @@
 
 > "Our goal as a team is to try to make sure that everyone is doing something, and something they want to be doing."
 
-Our team, **The Happy Haptic Doctors**, is made up of seven middle schoolers assisted by two coaches. All of us live along the borders of New Hampshire and Vermont, yet go to the same school. Most of our members did FLL in 2022, so we decided to do it again. As we started to talk about our Innovation Project, we focused on our shared interests of Music and Sports.
+Our team, **The Happy Haptic Doctors**, is made up of eight middle and high schoolers assisted by two coaches. All of us live along the borders of New Hampshire and Vermont, yet go to the same school. Most of our members attended FLL in 2022-24, and traveled to Houston, TX for FLL World Competition. For high school we decided to attend FTC, and in 2025, we attended te NE FTC Competition, winning first in our division. 
 
 
 ---
