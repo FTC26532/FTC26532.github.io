@@ -1,7 +1,8 @@
 # Site settings
 title: HapLink
 description: Home of the Happy Haptic Doctors, an FLL team
-baseurl: "/mdsite" # Repository name as the base URL
+baseurl: "" # No subfolder named, so leave it empty
+
 url: "https://FTC26532.github.io" # Your GitHub Pages URL
 
 # Author settings
