@@ -1,4 +1,10 @@
-# 2024 Worlds
+## Navigation
+
+- [Home](index.md) - [Our Team](our-team/index.md) - [Robot Design](happy-haptic-doctors-robot-design/index.md) - [2023 FLL](2023-fll/index.md) - [2024 Worlds](2024-worlds/index.md) - [2024 Highlights](2024/index.md) - [2025 FTC](2025/index.md) - [Donate](donate/index.md)
+
+---
+
+# 2025
 
 The New Hampshire state FTC competition had over 30 teams competing, and [our team](../our-team/index.html) won alliance captain 2nd place! Since we acheived 2nd, we earned an invitation to the 2025 FTC New England Premier, in West Springfield, Massachusetts, in April.
 
