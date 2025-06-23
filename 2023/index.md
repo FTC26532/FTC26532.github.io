@@ -1,3 +1,9 @@
+## Navigation
+
+- [Home](index.md) - [Our Team](our-team/index.md) - [Robot Design](happy-haptic-doctors-robot-design/index.md) - [2023 FLL](2023-fll/index.md) - [2024 Worlds](2024-worlds/index.md) - [2024 Highlights](2024/index.md) - [2025 Worlds](2025-worlds/index.md) - [Donate](donate/index.md)
+
+---
+
 # NH Champions, on to Worlds!
 
 Coach Yu and I can't stop thinking about that moment on Saturday when they announced that the kids had earned a spot at World Championships! What an incredible experience, with much more to come!

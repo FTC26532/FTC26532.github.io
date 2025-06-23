@@ -2,10 +2,15 @@
 layout: default
 title: Donate
 ---
+## Navigation
+
+- [Home](index.md) - [Our Team](our-team/index.md) - [Robot Design](happy-haptic-doctors-robot-design/index.md) - [2023 FLL](2023-fll/index.md) - [2024 Worlds](2024-worlds/index.md) - [2024 Highlights](2024/index.md) - [2025 Worlds](2025-worlds/index.md) - [Donate](donate/index.md)
+
+---
 
 # Donate
 
-Our whole team is planning to travel to Houston in April. Airfare and hotels are especially expensive. We need to raise funds to support our trip!
+Each year we need to register and purchase parts for the new challenge fields and setup, as well as robot equiptment and parts. Although we try our best to reuse parts from previous years, the expenses add to about $10,000 each year.
 
 <video controls width="600">
   <source src="../wp-content/uploads/2024/01/202401271454.mp4" type="video/mp4">
@@ -14,34 +19,9 @@ Our whole team is planning to travel to Houston in April. Airfare and hotels are
 
 ---
 
-## Expenses we would like to cover with donations (needs)
+## Expenses we would like to cover with donations
 
-- Airfare for each member of the team and one parent ($700-900 per ticket)
-- One hotel room per family (roughly $300/night or $1500 total per family)
-- Entry fee for the competition ($2000)
-- Materials to build better prototypes to use in our presentation at Worlds ($500)
-
----
-
-## Additional expenses, if we raise enough (wants)
-
-- Expenses related to having a practice area in Houston (e.g. shipping a table)
-- Meal(s) as a team in Houston
-
----
-
-## Expenses we are paying ourselves
-
-- Airfare for any additional parents who attend
-- Airfare and hotel rooms for any family who opts to pay their way
-- Travel to and from airports and parking
-
----
-
-## Total fundraising budget
-
-Currently, we are estimating we will need to raise **$16,500**. It is hard to come up with an exact number because airfare changes every day up until the moment tickets are actually booked. If we have raised any extra money, we will donate this to other local teachers and teams – who are either hoping to attend worlds this year or for next year’s teams.
-
+Each year, we need new materials and parts to improve our robot to build optimized prototypes. In addition to travel and registration costs, each year the FTC competition introduces a new game map and challenge setup. Our team needs to purchase the official field elements and materials required to build and practice on the new field. These items are essential for us to prepare for the season, test our robot, and develop effective strategies. These costs add up to about $10,000 each year! Your support will help make it possible for our team to represent our community and pursue our passion for robotics at the highest level.
 ---
 
 ## Ways to Donate
@@ -54,4 +34,4 @@ Currently, we are estimating we will need to raise **$16,500**. It is hard to co
 
 ---
 
-© 2023 HapLink
+© 2025 HapLink

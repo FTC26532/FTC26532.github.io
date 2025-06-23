@@ -1,15 +1,20 @@
-# 2024 Worlds
+## Navigation
 
-The New Hampshire state competition had 46 teams competing, and [our team](../our-team/index.html) got first place! Since we won, we earned an invitation to the [2024 FIRST Championship](https://www.firstchampionship.org/), in Houston, April 17-20. For worlds, we are trying to patent our innovation project and upgrade our robot from EV3 to SPIKE to improve the robot. Worlds is in April and it’s in Houston, Texas.
+- [Home](index.md) - [Our Team](our-team/index.md) - [Robot Design](happy-haptic-doctors-robot-design/index.md) - [2023 FLL](2023-fll/index.md) - [2024 Worlds](2024-worlds/index.md) - [2024 Highlights](2024/index.md) - [2025 Worlds](2025-worlds/index.md) - [Donate](donate/index.md)
+
+---
+
+# 2024 Worlds
+The New Hampshire state competition had 46 teams competing, and [our team](../our-team/index.html) got first place! Since we won, we earned an invitation to the [2024 FIRST Championship](https://www.firstchampionship.org/), in Houston, April 17-20. For worlds, we are trying to patent our innovation project and upgrade our robot from EV3 to SPIKE to improve the robot.
 
 ---
 
 ## Competition Categories
 
-1. **Robot Game**: Complete missions on the challenge board. This game seems like the main focus, but it isn’t the whole competition.
-2. **Robot Design**: A presentation to tell judges about how your robot works, the inspiration, and why it works well.
-3. **Innovation Project**: Find a solution to a problem in your community or even bigger problems.
-4. **Core Values**: The most important category, showing teamwork. Our team got 100% in every category for core values.
+1. **Robot Game**: Complete missions on the challenge board. This portion of the game seems like the main focus, but it isn’t the whole competition.
+2. **Robot Design**: Present to judges about how your robot works, the inspiration, different iterations, and why it works well.
+3. **Innovation Project**: Find and present about a solution to a real world problem in your community based on the year's theme.
+4. **Core Values**: The most important category, showing teamwork and innovation. Our team got 100% in every category for core values!
 
 ---
 
@@ -47,6 +52,6 @@ We rebuilt our robot to use Spike Prime instead of EV3, in preparation for World
 
 ## Fundraising
 
-One challenge we are facing is the cost, so we are going to do fundraising to earn money to make sure that our entire team can go to Houston. If you would like to help, please consider [donating](../donate/index.html)!
+One challenge we are facing is the cost, so we are going to start fundraising to raise money to make sure our entire team can keep competing. If you would like to help, please consider [donating](../donate/index.html)!
 
 ![Sponsors](../wp-content/uploads/2024/04/Sponsors.jpg)
