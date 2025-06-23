@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Donate
+title: Happy Haptic Doctors
 ---
 
 # Homepage - HapLink
