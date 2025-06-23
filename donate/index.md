@@ -24,11 +24,15 @@ Each year, we need new materials and parts to improve our robot to build optimiz
 
 ## Ways to Donate
 
+### 1: Click the link here:
+
 <p style="text-align: center;">
   <a href="https://hcb.hackclub.com/donations/start/fll-challenge-team-61434" style="font-size:2em; font-weight:bold; color:#fff; background:#0074D9; padding: 0.5em 1.5em; border-radius: 8px; text-decoration: none; display: inline-block;">
     Donate
   </a>
 </p>
+
+### 2: Scan the QR Code:
 
 ![QR Code](../wp-content/uploads/2024/03/qr_code_5.jpg)
 
