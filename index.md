@@ -21,7 +21,7 @@ the 2023-2024 Worlds Competition.
 
 ## Hero Section
 
-![Hero Image](/2025/team2025nh.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eHuhuO5q0nA" frameborder="0" allowfullscreen></iframe>
 
 **HapLink**
 
@@ -33,7 +33,7 @@ We are a small robotics team in the Upper Valley competing in a First Tech Chall
 
 ## Our Team
 
-![Team Photo](/wp-content/uploads/2024/01/StatesPicture-edited.jpg)
+![Hero Image](/2025/team2025nh.jpg)
 
 ### 2023-24 Members:
 - Kastner Anderson
