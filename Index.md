@@ -14,7 +14,7 @@ the 2023-2024 Worlds Competition.
 
 ## Navigation
 
-- [Home](index.md) - [Our Team](/our-team/index.md) - [Robot Design](/happy-haptic-doctors-robot-design/index.md) - [2023 FLL](/2023-fll/index.md) - [2024 Worlds](/2024-worlds/index.md) - [2024 Highlights](/2024/index.md) - [2025](/2025/index.md) - [Donate](/donate/index.md)
+- [Home](/) - [Our Team](/our-team/) - [Robot Design](/happy-haptic-doctors-robot-design/) - [2023 FLL](/2023-fll/) - [2024 Worlds](/2024-worlds/) - [2024 Highlights](/2024/) - [2025](/2025/) - [Donate](/donate/)
 
 ---
 
