@@ -61,7 +61,7 @@ Andy enjoys playing hockey, soccer, and playing the saxophone. He also enjoys ma
 #### (FLL + FTC Season 2023-25)
 ![Ella Zhang](../wp-content/uploads/2024/01/IMG_5890-edited.jpg)
 
-Ella enjoys playing several different sports such as hockey, soccer, basketball. She also plays the flute, creates art and likes to bike.
+Ella enjoys playing hockey, soccer, basketball. She also plays the flute, creates art and likes to bike.
 
 ---
 
@@ -93,7 +93,7 @@ Elizabeth likes...
 #### (FLL Season 2023-24)
 ![B Swenson](../wp-content/uploads/2024/01/Screenshot-2024-01-15-at-10.03.54 PM-edited.png)
 
-B likes drawing digitally and traditionally, and many different sports like running. He's also learning how to animate drawings.
+B likes drawing digitally and traditionally, and running. He's also learning how to animate drawings.
 
 ---
 
@@ -140,8 +140,8 @@ We work on a variety of tasks:
 - Building with Legos
 - Coding
 - Testing Missions
-- Soldering
-- Prototyping our Haptic products
+- 
+- Outreach
 - Website design!
 
 ---

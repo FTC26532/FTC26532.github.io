@@ -1,7 +1,7 @@
 # Site settings
 title: HapLink
-description: Home of the Happy Haptic Doctors, an FLL team
-baseurl: "" # No subfolder named, so leave it empty
+description: Home of the Happy Haptic Doctors, an FTL team based in Hanover NH
+support us!: https://haplink.net/donate/ # No subfolder named, so leave it empty
 
 url: "https://FTC26532.github.io" # Your GitHub Pages URL
 
