@@ -136,4 +136,4 @@ Another mode of our haptic suits is to be sound reactive. This means you will be
 
 **HapLink**
 
-Copyright © 2023
+Copyright © 2026

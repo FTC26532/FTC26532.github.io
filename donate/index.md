@@ -41,4 +41,4 @@ Each year, we need new materials and parts to improve our robot to build optimiz
 <img src="Mikroslogo.png" alt="Mikros Technologies Logo" width=150> <img src="Studicalogo.png" alt="Studica Logo" width=200> <img src="FTCSIMlogo.png" alt="FTCSIM Logo" width=200> 
 ---
 
-© 2025 HapLink
+© 2026 HapLink
