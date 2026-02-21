@@ -29,7 +29,7 @@ Our team, **The Happy Haptic Doctors**, is made up of eight middle and high scho
 #### (FLL + FTC Season 2023-25)
 ![Kastner Anderson](../wp-content/uploads/2024/01/IMG_9524-edited-scaled.jpg)
 
-Kastner likes...
+Kastner likes sports and music.
 
 ---
 
@@ -69,7 +69,7 @@ Ella enjoys playing hockey, soccer, basketball. She also plays the flute, create
 #### (FTC Season 2024-25)
 ![Jacob Hannan](./jacob.png)
 
-Jacob likes...
+Jacob likes sports and music.
 
 ---
 
@@ -77,7 +77,7 @@ Jacob likes...
 #### (FTC Season 2024-25)
 ![Alan Zhang](./alan.png)
 
-Alan likes...
+Alan likes sports and music.
 
 ---
 
@@ -85,7 +85,7 @@ Alan likes...
 #### (FTC Season 2024-25)
 ![Elizabeth Anderson](./elizabethfh.png)
 
-Elizabeth likes...
+Elizabeth likes sports and music.
 
 ---
 
