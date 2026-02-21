@@ -10,6 +10,8 @@ We are team 26532, Happy Haptic Doctors - a robotics team competing in the First
 Last year, we competed in the First Lego League, and attended 
 the 2023-2024 Worlds Competition.
 
+Support us here!: https://haplink.net/donate/
+
 ---
 
 ## Navigation
@@ -64,6 +66,10 @@ We are a small robotics team in the Upper Valley competing in a First Tech Chall
 ### Please consider helping us with a donation.
 
 [Donate Here](donate/index.md)
+
+Many thanks to our generous funds from FIRST Lego League, Jack and Dorothy Bryne Foundation, Mikros Technologies and more.
+
+<img src="Mikroslogo.png" alt="Mikros Technologies Logo" width=300> <img src="ByrneFoundationlogo.png" alt="Jack and Dorothy Byrne Foundation Logo" width=300> <img src="FTClogo.png" alt="First Lego League Logo" width=300>
 
 ---
 
