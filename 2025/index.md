@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2025
-
+published: false
 ---
 ## Navigation
 - [Home](/) - [Our Team](/our-team/) - [Robot Design](/happy-haptic-doctors-robot-design/) - [2023 FLL](/2023-fll/) - [2024 Worlds](/2024-worlds/) - [2024 Highlights](/2024/) - [2025](/2025/) - [Donate](/donate/)
