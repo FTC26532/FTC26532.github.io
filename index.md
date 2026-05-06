@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Happy Haptic Doctors
+published: false
 ---
 
 # Homepage - HapLink
